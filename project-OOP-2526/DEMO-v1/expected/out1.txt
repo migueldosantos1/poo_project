@@ -1,6 +1,6 @@
 Running uno.v1.Main with:
-   DeckFile: DEMO-v1/input/ex1-deck.txt
-   Script file: DEMO-v1/input/ex1-script.txt
+   DeckFile: ex1-deck.txt
+   Script file: ex1-script.txt
    Nb players: 2
    Nb cards per player: 7
 
@@ -37,7 +37,7 @@ EVENT PLAY_CARD Player 0 played R-1
 EVENT TURN_ADVANCE Next player: 1
 EVENT COMMAND line="PLAYER 1 PLAY 1"
 EVENT PLAY_CARD Player 1 played R-0
-EVENT TURN_ADVANCE Next player: 0
+EVENT TURN_ADVANCE Next player: 0DEMO-v1/input/ex1
 EVENT COMMAND line="PLAYER 0 PLAY 3"
 EVENT PLAY_CARD Player 0 played R-1
 EVENT TURN_ADVANCE Next player: 1
